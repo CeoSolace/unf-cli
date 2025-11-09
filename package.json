@@ -2,7 +2,7 @@
   "name": "unfiltereduk",
   "version": "1.0.0",
   "private": true,
-  "description": "UnfilteredUK – a privacy‑focused, scalable real‑time communication platform.",
+  "description": "UnfilteredUK – a privacy-focused, scalable real-time communication platform.",
   "license": "MIT",
   "engines": {
     "node": ">=18",
@@ -28,7 +28,7 @@
     "helmet": "^7.0.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^7.5.0",
-    "next": "^13.5.0", // latest stable Next.js; adjust accordingly to Next 14 when available
+    "next": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "socket.io": "^4.7.2",
