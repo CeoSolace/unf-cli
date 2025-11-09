@@ -1,0 +1,20 @@
+# Node modules and build outputs
+node_modules/
+.next/
+dist/
+build/
+logs/
+*.log
+
+# Environment variables
+.env*
+
+# OS files
+*.DS_Store
+Thumbs.db
+
+# Generated docs
+docs/generated/
+
+# Coverage reports
+coverage/

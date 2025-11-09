@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles for UnfilteredUK */
+body {
+  @apply bg-gray-50 text-gray-900;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
